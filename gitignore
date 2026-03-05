@@ -1,0 +1,15 @@
+# WordPress
+*.log
+*.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.zip
+node_modules/
+vendor/
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
